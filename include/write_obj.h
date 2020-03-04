@@ -21,4 +21,4 @@ bool write_obj(
   const Eigen::MatrixXi & UF,
   const Eigen::MatrixXd & NV,
   const Eigen::MatrixXi & NF);
-#endif 
+#endif
